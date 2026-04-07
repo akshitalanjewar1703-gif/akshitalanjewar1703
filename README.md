@@ -1,37 +1,40 @@
-<h1 align="center">Hi 👋, I'm Akshita Lanjewar</h1>
-<h3 align="center">Electronics and Telecommunication Engineer 💻✨</h3>
+<h1 align="center">Akshita Lanjewar</h1>
+<h3 align="center">Electronics and Telecommunication Engineer</h3>
 
+---
+
+### 👩‍💻 Profile Summary
+Motivated Electronics and Telecommunication Engineering student with a strong foundation in programming and problem-solving. Passionate about building efficient solutions and continuously learning new technologies.
+
+---
+
+### 🛠️ Technical Skills
+- Programming: C, C++, Python
+- Tools & Platforms: Git, GitHub, VS Code
+- Core Areas: Electronics, Communication Systems
+
+---
+
+### 🚀 Projects
+- Working on innovative and practical engineering projects
+- Interested in real-world problem solving and development
+
+---
+
+### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Tech+%F0%9F%92%BB;Love+Coding+and+Creating+Projects+%F0%9F%9A%80" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshitalanjewar1703&show_icons=true&theme=default" />
 </p>
 
 ---
 
-### 👩‍💻 About Me:
-- 🔭 I’m currently working on exciting projects
-- 🌱 I’m currently learning new technologies
-- 👯 I’m looking to collaborate on innovative ideas
-- 💬 Ask me about C, C++, Python
-- 📫 Reach me at: akshitalanjewar@gmail.com
-- ⚡ Fun fact: I love building creative things 😄
+### 🎯 Career Objective
+To secure a challenging position in a reputable organization where I can apply my knowledge, enhance my skills, and contribute to organizational growth.
 
 ---
 
-### 🚀 Languages and Tools:
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshitalanjewar1703&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitalanjewar1703&theme=radical" />
-</p>
-
----
+### ⚡ Additional Information
+- Quick learner with strong analytical skills
+- Team player with good communication abilities
+- Dedicated and goal-oriented
 
